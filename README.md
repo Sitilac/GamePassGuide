@@ -8,6 +8,8 @@
 - Display games on XBox Gamepass
 - Track favorite games
 - write reviews for games
+## User Stories
+https://trello.com/b/9iMLDRW2/gamepasstracker
 
 ## Getting started
 - git clone https://github.com/Sitilac/GamePassGuide.git
